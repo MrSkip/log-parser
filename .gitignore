@@ -1,2 +1,7 @@
 .idea/*
 logparser.iml
+target/archive-tmp/*
+target/classes/*
+target/maven-archiver/*
+target/maven-status/*
+/target/classes/*
