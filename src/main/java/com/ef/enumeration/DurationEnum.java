@@ -26,10 +26,4 @@ public enum DurationEnum {
         return time.plusDays(1);
     }
 
-    public String warningMessage() {
-        if (this == HOURLY) {
-            return "in 1 hour";
-        }
-        return "";
-    }
 }
